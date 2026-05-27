@@ -1,0 +1,2798 @@
+[
+    {
+        "id": "q1",
+        "type": "multiple_choice",
+        "text": "Which country won the 2022 FIFA World Cup?",
+        "options": [
+            "Argentina",
+            "France",
+            "Brazil",
+            "Germany"
+        ],
+        "correctAnswer": 0,
+        "category": "World Cup",
+        "difficulty": "easy"
+    },
+    {
+        "id": "q2",
+        "type": "multiple_choice",
+        "text": "Who is the all-time top scorer in World Cup history?",
+        "options": [
+            "Pelé",
+            "Miroslav Klose",
+            "Ronaldo",
+            "Lionel Messi"
+        ],
+        "correctAnswer": 1,
+        "category": "World Cup",
+        "difficulty": "medium"
+    },
+    {
+        "id": "q3",
+        "type": "multiple_choice",
+        "text": "Which club has won the most UEFA Champions League titles?",
+        "options": [
+            "Real Madrid",
+            "Barcelona",
+            "Bayern Munich",
+            "AC Milan"
+        ],
+        "correctAnswer": 0,
+        "category": "Club Football",
+        "difficulty": "hard"
+    },
+    {
+        "id": "q4",
+        "type": "multiple_choice",
+        "text": "In which year was the first FIFA World Cup held?",
+        "options": [
+            "1928",
+            "1930",
+            "1932",
+            "1934"
+        ],
+        "correctAnswer": 1,
+        "category": "History",
+        "difficulty": "medium"
+    },
+    {
+        "id": "q5",
+        "type": "multiple_choice",
+        "text": "Which player has scored the most goals in a single World Cup tournament?",
+        "options": [
+            "Ronaldo",
+            "Just Fontaine",
+            "Gerd Müller",
+            "Pelé"
+        ],
+        "correctAnswer": 1,
+        "category": "World Cup",
+        "difficulty": "hard"
+    },
+    {
+        "id": "q6",
+        "type": "multiple_choice",
+        "text": "Which country has won the most Copa América titles?",
+        "options": [
+            "Brazil",
+            "Argentina",
+            "Uruguay",
+            "Chile"
+        ],
+        "correctAnswer": 2,
+        "category": "International",
+        "difficulty": "medium"
+    },
+    {
+        "id": "q7",
+        "type": "multiple_choice",
+        "text": "Who won the Ballon d'Or in 2023?",
+        "options": [
+            "Lionel Messi",
+            "Kylian Mbappé",
+            "Erling Haaland",
+            "Cristiano Ronaldo"
+        ],
+        "correctAnswer": 0,
+        "category": "Awards",
+        "difficulty": "easy"
+    },
+    {
+        "id": "q8",
+        "type": "multiple_choice",
+        "text": "Which stadium is known as 'The Theatre of Dreams'?",
+        "options": [
+            "Anfield",
+            "Old Trafford",
+            "Stamford Bridge",
+            "Emirates Stadium"
+        ],
+        "correctAnswer": 1,
+        "category": "Stadiums",
+        "difficulty": "easy"
+    },
+    {
+        "id": "q9",
+        "type": "multiple_choice",
+        "text": "How many players are on the field for each team in a standard soccer match?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "9"
+        ],
+        "correctAnswer": 1,
+        "category": "Rules",
+        "difficulty": "easy"
+    },
+    {
+        "id": "q10",
+        "type": "multiple_choice",
+        "text": "Which player has the most international goals of all time?",
+        "options": [
+            "Cristiano Ronaldo",
+            "Lionel Messi",
+            "Pelé",
+            "Ali Daei"
+        ],
+        "correctAnswer": 0,
+        "category": "Records",
+        "difficulty": "medium"
+    },
+    {
+        "id": "q11",
+        "type": "multiple_choice",
+        "text": "Which country hosted the 2018 FIFA World Cup?",
+        "options": [
+            "Qatar",
+            "Russia",
+            "Brazil",
+            "South Africa"
+        ],
+        "correctAnswer": 1,
+        "category": "World Cup",
+        "difficulty": "easy"
+    },
+    {
+        "id": "q12",
+        "type": "multiple_choice",
+        "text": "What is the maximum number of substitutions allowed in a standard match?",
+        "options": [
+            "3",
+            "5",
+            "7",
+            "Unlimited"
+        ],
+        "correctAnswer": 1,
+        "category": "Rules",
+        "difficulty": "medium"
+    },
+    {
+        "id": "q13",
+        "type": "multiple_choice",
+        "text": "Which club is known as 'The Red Devils'?",
+        "options": [
+            "Liverpool",
+            "Manchester United",
+            "Arsenal",
+            "Chelsea"
+        ],
+        "correctAnswer": 1,
+        "category": "Clubs",
+        "difficulty": "easy"
+    },
+    {
+        "id": "q14",
+        "type": "multiple_choice",
+        "text": "In which year did the Premier League begin?",
+        "options": [
+            "1990",
+            "1992",
+            "1994",
+            "1996"
+        ],
+        "correctAnswer": 1,
+        "category": "History",
+        "difficulty": "medium"
+    },
+    {
+        "id": "q15",
+        "type": "multiple_choice",
+        "text": "Which player has won the most Ballon d'Or awards?",
+        "options": [
+            "Cristiano Ronaldo",
+            "Lionel Messi",
+            "Pelé",
+            "Diego Maradona"
+        ],
+        "correctAnswer": 1,
+        "category": "Awards",
+        "difficulty": "medium"
+    },
+    {
+        "id": "q16",
+        "type": "multiple_choice",
+        "text": "What is the duration of a standard soccer match?",
+        "options": [
+            "80 minutes",
+            "90 minutes",
+            "100 minutes",
+            "120 minutes"
+        ],
+        "correctAnswer": 1,
+        "category": "Rules",
+        "difficulty": "easy"
+    },
+    {
+        "id": "q17",
+        "type": "multiple_choice",
+        "text": "Which country has never won a World Cup?",
+        "options": [
+            "Netherlands",
+            "Spain",
+            "England",
+            "Portugal"
+        ],
+        "correctAnswer": 0,
+        "category": "World Cup",
+        "difficulty": "hard"
+    },
+    {
+        "id": "q18",
+        "type": "multiple_choice",
+        "text": "Who scored the 'Hand of God' goal?",
+        "options": [
+            "Pelé",
+            "Diego Maradona",
+            "Lionel Messi",
+            "Ronaldinho"
+        ],
+        "correctAnswer": 1,
+        "category": "History",
+        "difficulty": "medium"
+    },
+    {
+        "id": "q19",
+        "type": "multiple_choice",
+        "text": "Which league is known as 'La Liga'?",
+        "options": [
+            "Italian Serie A",
+            "Spanish Primera División",
+            "French Ligue 1",
+            "German Bundesliga"
+        ],
+        "correctAnswer": 1,
+        "category": "Leagues",
+        "difficulty": "easy"
+    },
+    {
+        "id": "q20",
+        "type": "multiple_choice",
+        "text": "What does 'VAR' stand for in soccer?",
+        "options": [
+            "Video Assistant Referee",
+            "Virtual Assistant Referee",
+            "Video Analysis Review",
+            "Virtual Analysis Review"
+        ],
+        "correctAnswer": 0,
+        "category": "Rules",
+        "difficulty": "easy"
+    },
+    {
+        "id": "q21",
+        "type": "multiple_choice",
+        "text": "Which country won the first FIFA World Cup?",
+        "options": [
+            "Brazil",
+            "Argentina",
+            "Uruguay",
+            "Italy"
+        ],
+        "correctAnswer": 2,
+        "category": "World Cup",
+        "difficulty": "medium"
+    },
+    {
+        "id": "q22",
+        "type": "multiple_choice",
+        "text": "Which player is known as 'CR7'?",
+        "options": [
+            "Ronaldinho",
+            "Ronaldo Nazário",
+            "Cristiano Ronaldo",
+            "Raúl"
+        ],
+        "correctAnswer": 2,
+        "category": "Players",
+        "difficulty": "easy"
+    },
+    {
+        "id": "q23",
+        "type": "multiple_choice",
+        "text": "Which club plays at Camp Nou?",
+        "options": [
+            "Real Madrid",
+            "Barcelona",
+            "Valencia",
+            "Atlético Madrid"
+        ],
+        "correctAnswer": 1,
+        "category": "Stadiums",
+        "difficulty": "easy"
+    },
+    {
+        "id": "q24",
+        "type": "multiple_choice",
+        "text": "Who won the Golden Boot at the 2022 World Cup?",
+        "options": [
+            "Lionel Messi",
+            "Olivier Giroud",
+            "Kylian Mbappé",
+            "Julián Álvarez"
+        ],
+        "correctAnswer": 2,
+        "category": "World Cup",
+        "difficulty": "medium"
+    },
+    {
+        "id": "q25",
+        "type": "multiple_choice",
+        "text": "Which country has won the most FIFA World Cups?",
+        "options": [
+            "Germany",
+            "Italy",
+            "Argentina",
+            "Brazil"
+        ],
+        "correctAnswer": 3,
+        "category": "World Cup",
+        "difficulty": "easy"
+    },
+    {
+        "id": "q26",
+        "type": "multiple_choice",
+        "text": "What color card means a player is sent off?",
+        "options": [
+            "Yellow",
+            "Blue",
+            "Red",
+            "Green"
+        ],
+        "correctAnswer": 2,
+        "category": "Rules",
+        "difficulty": "easy"
+    },
+    {
+        "id": "q27",
+        "type": "multiple_choice",
+        "text": "Which club won the Champions League in 2020?",
+        "options": [
+            "PSG",
+            "Bayern Munich",
+            "Liverpool",
+            "Manchester City"
+        ],
+        "correctAnswer": 1,
+        "category": "Club Football",
+        "difficulty": "medium"
+    },
+    {
+        "id": "q28",
+        "type": "multiple_choice",
+        "text": "Who is Argentina’s all-time top scorer?",
+        "options": [
+            "Gabriel Batistuta",
+            "Sergio Agüero",
+            "Diego Maradona",
+            "Lionel Messi"
+        ],
+        "correctAnswer": 3,
+        "category": "Records",
+        "difficulty": "easy"
+    },
+    {
+        "id": "q29",
+        "type": "multiple_choice",
+        "text": "Which team is known as 'The Blues'?",
+        "options": [
+            "Everton",
+            "Chelsea",
+            "Leicester City",
+            "Manchester City"
+        ],
+        "correctAnswer": 1,
+        "category": "Clubs",
+        "difficulty": "easy"
+    },
+    {
+        "id": "q30",
+        "type": "multiple_choice",
+        "text": "In which country did Neymar begin his professional career?",
+        "options": [
+            "Spain",
+            "France",
+            "Brazil",
+            "Portugal"
+        ],
+        "correctAnswer": 2,
+        "category": "Players",
+        "difficulty": "medium"
+    },
+    {
+        "id": "q31",
+        "type": "multiple_choice",
+        "text": "Which position is primarily responsible for preventing goals?",
+        "options": [
+            "Striker",
+            "Midfielder",
+            "Defender",
+            "Goalkeeper"
+        ],
+        "correctAnswer": 3,
+        "category": "Rules",
+        "difficulty": "easy"
+    },
+    {
+        "id": "q32",
+        "type": "multiple_choice",
+        "text": "Which country won Euro 2020?",
+        "options": [
+            "England",
+            "France",
+            "Italy",
+            "Spain"
+        ],
+        "correctAnswer": 2,
+        "category": "International",
+        "difficulty": "medium"
+    },
+    {
+        "id": "q33",
+        "type": "multiple_choice",
+        "text": "Which club is based at Anfield?",
+        "options": [
+            "Everton",
+            "Manchester United",
+            "Liverpool",
+            "Tottenham"
+        ],
+        "correctAnswer": 2,
+        "category": "Stadiums",
+        "difficulty": "easy"
+    },
+    {
+        "id": "q34",
+        "type": "multiple_choice",
+        "text": "Who is known as 'The Special One'?",
+        "options": [
+            "Pep Guardiola",
+            "Carlo Ancelotti",
+            "José Mourinho",
+            "Jurgen Klopp"
+        ],
+        "correctAnswer": 2,
+        "category": "Managers",
+        "difficulty": "medium"
+    },
+    {
+        "id": "q35",
+        "type": "multiple_choice",
+        "text": "Which club has never been relegated from the Premier League?",
+        "options": [
+            "Arsenal",
+            "Chelsea",
+            "Liverpool",
+            "Manchester City"
+        ],
+        "correctAnswer": 0,
+        "category": "Leagues",
+        "difficulty": "hard"
+    },
+    {
+        "id": "q36",
+        "type": "multiple_choice",
+        "text": "Which player is nicknamed 'El Fenómeno'?",
+        "options": [
+            "Ronaldinho",
+            "Ronaldo Nazário",
+            "Romário",
+            "Kaká"
+        ],
+        "correctAnswer": 1,
+        "category": "History",
+        "difficulty": "medium"
+    },
+    {
+        "id": "q37",
+        "type": "multiple_choice",
+        "text": "How many World Cups has Italy won?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correctAnswer": 2,
+        "category": "World Cup",
+        "difficulty": "medium"
+    },
+    {
+        "id": "q38",
+        "type": "multiple_choice",
+        "text": "Which league does Bayern Munich play in?",
+        "options": [
+            "Serie A",
+            "Bundesliga",
+            "Ligue 1",
+            "La Liga"
+        ],
+        "correctAnswer": 1,
+        "category": "Leagues",
+        "difficulty": "easy"
+    },
+    {
+        "id": "q39",
+        "type": "multiple_choice",
+        "text": "Who scored the winning goal in the 2014 World Cup final?",
+        "options": [
+            "Thomas Müller",
+            "Mario Götze",
+            "Miroslav Klose",
+            "Toni Kroos"
+        ],
+        "correctAnswer": 1,
+        "category": "World Cup",
+        "difficulty": "medium"
+    },
+    {
+        "id": "q40",
+        "type": "multiple_choice",
+        "text": "Which team won the Premier League in 2016?",
+        "options": [
+            "Chelsea",
+            "Manchester City",
+            "Leicester City",
+            "Tottenham"
+        ],
+        "correctAnswer": 2,
+        "category": "History",
+        "difficulty": "medium"
+    },
+    {
+        "id": "q41",
+        "type": "multiple_choice",
+        "text": "What is awarded for a foul inside the penalty box?",
+        "options": [
+            "Free kick",
+            "Throw-in",
+            "Corner",
+            "Penalty"
+        ],
+        "correctAnswer": 3,
+        "category": "Rules",
+        "difficulty": "easy"
+    },
+    {
+        "id": "q42",
+        "type": "multiple_choice",
+        "text": "Which country is known as 'La Albiceleste'?",
+        "options": [
+            "Uruguay",
+            "Argentina",
+            "Chile",
+            "Colombia"
+        ],
+        "correctAnswer": 1,
+        "category": "International",
+        "difficulty": "easy"
+    },
+    {
+        "id": "q43",
+        "type": "multiple_choice",
+        "text": "Which player won the Golden Ball at the 2022 World Cup?",
+        "options": [
+            "Mbappé",
+            "Messi",
+            "Modrić",
+            "Griezmann"
+        ],
+        "correctAnswer": 1,
+        "category": "World Cup",
+        "difficulty": "easy"
+    },
+    {
+        "id": "q44",
+        "type": "multiple_choice",
+        "text": "Which club is nicknamed 'The Old Lady'?",
+        "options": [
+            "AC Milan",
+            "Inter",
+            "Roma",
+            "Juventus"
+        ],
+        "correctAnswer": 3,
+        "category": "Clubs",
+        "difficulty": "medium"
+    },
+    {
+        "id": "q45",
+        "type": "multiple_choice",
+        "text": "Who holds the record for most assists in Champions League history?",
+        "options": [
+            "Xavi",
+            "Iniesta",
+            "Cristiano Ronaldo",
+            "Lionel Messi"
+        ],
+        "correctAnswer": 3,
+        "category": "Records",
+        "difficulty": "hard"
+    },
+    {
+        "id": "q46",
+        "type": "multiple_choice",
+        "text": "Which country won the 2010 World Cup?",
+        "options": [
+            "Germany",
+            "Netherlands",
+            "Spain",
+            "Brazil"
+        ],
+        "correctAnswer": 2,
+        "category": "World Cup",
+        "difficulty": "easy"
+    },
+    {
+        "id": "q47",
+        "type": "multiple_choice",
+        "text": "Which club did Lionel Messi join in 2021?",
+        "options": [
+            "Manchester City",
+            "Inter Miami",
+            "PSG",
+            "Juventus"
+        ],
+        "correctAnswer": 2,
+        "category": "Players",
+        "difficulty": "easy"
+    },
+    {
+        "id": "q48",
+        "type": "multiple_choice",
+        "text": "What does FIFA stand for?",
+        "options": [
+            "Federation of International Football Associations",
+            "International Football Federation Association",
+            "Federation Internationale de Football Association",
+            "Football International Federation Authority"
+        ],
+        "correctAnswer": 2,
+        "category": "History",
+        "difficulty": "medium"
+    },
+    {
+        "id": "q49",
+        "type": "multiple_choice",
+        "text": "Which team has won the most Premier League titles?",
+        "options": [
+            "Arsenal",
+            "Chelsea",
+            "Manchester United",
+            "Liverpool"
+        ],
+        "correctAnswer": 2,
+        "category": "Leagues",
+        "difficulty": "medium"
+    },
+    {
+        "id": "q50",
+        "type": "multiple_choice",
+        "text": "Which player is known as 'La Pulga'?",
+        "options": [
+            "Neymar",
+            "Messi",
+            "Agüero",
+            "Di María"
+        ],
+        "correctAnswer": 1,
+        "category": "Players",
+        "difficulty": "easy"
+    },
+    [
+        {
+            "id": "q51",
+            "type": "multiple_choice",
+            "text": "Which national team is nicknamed 'The Indomitable Lions'?",
+            "options": [
+                "Nigeria",
+                "Cameroon",
+                "Senegal",
+                "Ghana"
+            ],
+            "correctAnswer": 1,
+            "category": "International",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q52",
+            "type": "multiple_choice",
+            "text": "Who was the first player to win the Champions League with three different clubs?",
+            "options": [
+                "Cristiano Ronaldo",
+                "Clarence Seedorf",
+                "Samuel Eto'o",
+                "Zlatan Ibrahimović"
+            ],
+            "correctAnswer": 1,
+            "category": "Records",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q53",
+            "type": "multiple_choice",
+            "text": "In which city is the 'San Siro' stadium located?",
+            "options": [
+                "Turin",
+                "Rome",
+                "Milan",
+                "Naples"
+            ],
+            "correctAnswer": 2,
+            "category": "Stadiums",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q54",
+            "type": "multiple_choice",
+            "text": "Which player is famous for the 'Cruyff Turn'?",
+            "options": [
+                "Johan Cruyff",
+                "Marco van Basten",
+                "Ruud Gullit",
+                "Dennis Bergkamp"
+            ],
+            "correctAnswer": 0,
+            "category": "History",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q55",
+            "type": "multiple_choice",
+            "text": "Which club is known as 'The Cityzens'?",
+            "options": [
+                "Leicester City",
+                "Manchester City",
+                "Norwich City",
+                "Hull City"
+            ],
+            "correctAnswer": 1,
+            "category": "Clubs",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q56",
+            "type": "multiple_choice",
+            "text": "Who was the manager of Arsenal during their 'Invincibles' season?",
+            "options": [
+                "Alex Ferguson",
+                "Arsène Wenger",
+                "José Mourinho",
+                "Pep Guardiola"
+            ],
+            "correctAnswer": 1,
+            "category": "Managers",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q57",
+            "type": "multiple_choice",
+            "text": "Which country won the first ever European Championship (Euro 1960)?",
+            "options": [
+                "Soviet Union",
+                "Yugoslavia",
+                "Spain",
+                "France"
+            ],
+            "correctAnswer": 0,
+            "category": "History",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q58",
+            "type": "multiple_choice",
+            "text": "Which goalkeeper has the most clean sheets in Premier League history?",
+            "options": [
+                "David de Gea",
+                "Petr Čech",
+                "Peter Schmeichel",
+                "Edwin van der Sar"
+            ],
+            "correctAnswer": 1,
+            "category": "Records",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q59",
+            "type": "multiple_choice",
+            "text": "What is the nickname of the German national team?",
+            "options": [
+                "Die Mannschaft",
+                "Les Bleus",
+                "La Furia Roja",
+                "Oranje"
+            ],
+            "correctAnswer": 0,
+            "category": "International",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q60",
+            "type": "multiple_choice",
+            "text": "Which player holds the record for the fastest Premier League hat-trick?",
+            "options": [
+                "Alan Shearer",
+                "Sadio Mané",
+                "Robbie Fowler",
+                "Sergio Agüero"
+            ],
+            "correctAnswer": 1,
+            "category": "Records",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q61",
+            "type": "multiple_choice",
+            "text": "Which country hosted the 1994 FIFA World Cup?",
+            "options": [
+                "Italy",
+                "France",
+                "USA",
+                "Mexico"
+            ],
+            "correctAnswer": 2,
+            "category": "World Cup",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q62",
+            "type": "multiple_choice",
+            "text": "Which club is known as 'Los Blancos'?",
+            "options": [
+                "Valencia",
+                "Sevilla",
+                "Real Madrid",
+                "Villarreal"
+            ],
+            "correctAnswer": 2,
+            "category": "Clubs",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q63",
+            "type": "multiple_choice",
+            "text": "Who is the only goalkeeper to win the Ballon d'Or?",
+            "options": [
+                "Gianluigi Buffon",
+                "Lev Yashin",
+                "Manuel Neuer",
+                "Iker Casillas"
+            ],
+            "correctAnswer": 1,
+            "category": "Awards",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q64",
+            "type": "multiple_choice",
+            "text": "How many teams participate in the group stage of the current FIFA World Cup format (as of 2022)?",
+            "options": [
+                "24",
+                "32",
+                "16",
+                "48"
+            ],
+            "correctAnswer": 1,
+            "category": "Rules",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q65",
+            "type": "multiple_choice",
+            "text": "Which African player has won the most African Footballer of the Year awards?",
+            "options": [
+                "Didier Drogba",
+                "Mohamed Salah",
+                "Samuel Eto'o",
+                "Yaya Touré"
+            ],
+            "correctAnswer": 2,
+            "category": "Awards",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q66",
+            "type": "multiple_choice",
+            "text": "Which English club has the motto 'You'll Never Walk Alone'?",
+            "options": [
+                "Manchester City",
+                "Liverpool",
+                "Everton",
+                "West Ham"
+            ],
+            "correctAnswer": 1,
+            "category": "Clubs",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q67",
+            "type": "multiple_choice",
+            "text": "Who scored the winning goal for Spain in the 2010 World Cup Final?",
+            "options": [
+                "Xavi",
+                "Andrés Iniesta",
+                "David Villa",
+                "Fernando Torres"
+            ],
+            "correctAnswer": 1,
+            "category": "World Cup",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q68",
+            "type": "multiple_choice",
+            "text": "What is the name of the trophy awarded to the winner of the Premier League?",
+            "options": [
+                "The FA Cup",
+                "The Premier Cup",
+                "The Premier League Trophy",
+                "The Jules Rimet Trophy"
+            ],
+            "correctAnswer": 2,
+            "category": "Leagues",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q69",
+            "type": "multiple_choice",
+            "text": "Which player is known as 'The Egyptian King'?",
+            "options": [
+                "Riyad Mahrez",
+                "Achraf Hakimi",
+                "Mohamed Salah",
+                "Sadio Mané"
+            ],
+            "correctAnswer": 2,
+            "category": "Players",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q70",
+            "type": "multiple_choice",
+            "text": "Which country won the 2016 UEFA European Championship?",
+            "options": [
+                "France",
+                "Germany",
+                "Portugal",
+                "Wales"
+            ],
+            "correctAnswer": 2,
+            "category": "International",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q71",
+            "type": "multiple_choice",
+            "text": "What is the maximum width of a soccer goal?",
+            "options": [
+                "7.32 meters",
+                "8.12 meters",
+                "6.55 meters",
+                "7.50 meters"
+            ],
+            "correctAnswer": 0,
+            "category": "Rules",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q72",
+            "type": "multiple_choice",
+            "text": "Who was the first player to reach 100 Champions League goals?",
+            "options": [
+                "Lionel Messi",
+                "Cristiano Ronaldo",
+                "Raúl",
+                "Karim Benzema"
+            ],
+            "correctAnswer": 1,
+            "category": "Records",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q73",
+            "type": "multiple_choice",
+            "text": "Which club is known as 'The Gunners'?",
+            "options": [
+                "Tottenham Hotspur",
+                "West Ham United",
+                "Arsenal",
+                "Aston Villa"
+            ],
+            "correctAnswer": 2,
+            "category": "Clubs",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q74",
+            "type": "multiple_choice",
+            "text": "In what year did Zinedine Zidane famously headbutt Marco Materazzi in the World Cup Final?",
+            "options": [
+                "1998",
+                "2002",
+                "2006",
+                "2010"
+            ],
+            "correctAnswer": 2,
+            "category": "History",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q75",
+            "type": "multiple_choice",
+            "text": "Which stadium is the home of the England national team?",
+            "options": [
+                "Old Trafford",
+                "Wembley Stadium",
+                "Etihad Stadium",
+                "Stamford Bridge"
+            ],
+            "correctAnswer": 1,
+            "category": "Stadiums",
+            "difficulty": "easy"
+        }
+    ],
+    [
+        {
+            "id": "q76",
+            "type": "multiple_choice",
+            "text": "True or False: A goal can be scored directly from a throw-in.",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correctAnswer": 1,
+            "category": "Rules",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q77",
+            "type": "multiple_choice",
+            "text": "Which player holds the record for the most goals in a single Premier League season (38-game format)?",
+            "options": [
+                "Mohamed Salah",
+                "Erling Haaland",
+                "Alan Shearer",
+                "Luis Suárez"
+            ],
+            "correctAnswer": 1,
+            "category": "Records",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q78",
+            "type": "multiple_choice",
+            "text": "What happens if a player removes their shirt to celebrate a goal that is later disallowed by VAR?",
+            "options": [
+                "The yellow card is rescinded",
+                "The yellow card still stands",
+                "The player receives a red card",
+                "The goal is allowed anyway"
+            ],
+            "correctAnswer": 1,
+            "category": "Rules",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q79",
+            "type": "multiple_choice",
+            "text": "Which country is the only one to have played in every single FIFA World Cup tournament?",
+            "options": [
+                "Germany",
+                "Italy",
+                "Brazil",
+                "Argentina"
+            ],
+            "correctAnswer": 2,
+            "category": "World Cup",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q80",
+            "type": "multiple_choice",
+            "text": "Which manager has won the most UEFA Champions League titles?",
+            "options": [
+                "Alex Ferguson",
+                "Zinedine Zidane",
+                "Carlo Ancelotti",
+                "Pep Guardiola"
+            ],
+            "correctAnswer": 2,
+            "category": "Managers",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q81",
+            "type": "multiple_choice",
+            "text": "In the context of field dimensions, what is the 'D' at the edge of the penalty box for?",
+            "options": [
+                "To mark the distance for free kicks",
+                "To ensure players stay 10 yards from the penalty spot",
+                "It's just decorative",
+                "To mark the goalkeeper's limit"
+            ],
+            "correctAnswer": 1,
+            "category": "Rules",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q82",
+            "type": "multiple_choice",
+            "text": "Which club is known for its 'Class of '92' homegrown stars?",
+            "options": [
+                "Arsenal",
+                "Liverpool",
+                "Manchester United",
+                "Chelsea"
+            ],
+            "correctAnswer": 2,
+            "category": "History",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q83",
+            "type": "multiple_choice",
+            "text": "Who was the first African player to win the Ballon d'Or?",
+            "options": [
+                "George Weah",
+                "Didier Drogba",
+                "Roger Milla",
+                "Eusébio"
+            ],
+            "correctAnswer": 0,
+            "category": "Awards",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q84",
+            "type": "multiple_choice",
+            "text": "Which city hosts the 'Old Firm' derby?",
+            "options": [
+                "Manchester",
+                "Glasgow",
+                "Liverpool",
+                "London"
+            ],
+            "correctAnswer": 1,
+            "category": "Clubs",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q85",
+            "type": "multiple_choice",
+            "text": "What is the term for when a player scores against their own team?",
+            "options": [
+                "Foul Goal",
+                "Own Goal",
+                "Back Goal",
+                "Reverse Goal"
+            ],
+            "correctAnswer": 1,
+            "category": "Rules",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q86",
+            "type": "multiple_choice",
+            "text": "Which country won the first-ever FIFA Women's World Cup in 1991?",
+            "options": [
+                "Norway",
+                "USA",
+                "China",
+                "Germany"
+            ],
+            "correctAnswer": 1,
+            "category": "International",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q87",
+            "type": "multiple_choice",
+            "text": "Which iconic player is nicknamed 'Zizou'?",
+            "options": [
+                "Zlatan Ibrahimović",
+                "Zinedine Zidane",
+                "Mesut Özil",
+                "Ricardo Kaká"
+            ],
+            "correctAnswer": 1,
+            "category": "Players",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q88",
+            "type": "multiple_choice",
+            "text": "True or False: The goalkeeper can handle the ball outside the penalty area as long as they are standing inside it.",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correctAnswer": 1,
+            "category": "Rules",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q89",
+            "type": "multiple_choice",
+            "text": "Which team won the first-ever Premier League title in the 1992-93 season?",
+            "options": [
+                "Blackburn Rovers",
+                "Manchester United",
+                "Arsenal",
+                "Leeds United"
+            ],
+            "correctAnswer": 1,
+            "category": "History",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q90",
+            "type": "multiple_choice",
+            "text": "How many minutes of 'extra time' (not stoppage time) are played in total during a knockout match if the score is tied?",
+            "options": [
+                "15 minutes",
+                "20 minutes",
+                "30 minutes",
+                "45 minutes"
+            ],
+            "correctAnswer": 2,
+            "category": "Rules",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q91",
+            "type": "multiple_choice",
+            "text": "Which player has played the most matches in World Cup history?",
+            "options": [
+                "Lothar Matthäus",
+                "Miroslav Klose",
+                "Lionel Messi",
+                "Paolo Maldini"
+            ],
+            "correctAnswer": 2,
+            "category": "Records",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q92",
+            "type": "multiple_choice",
+            "text": "Which club does the famous 'Yellow Wall' (Gelbe Wand) belong to?",
+            "options": [
+                "Villarreal",
+                "Borussia Dortmund",
+                "Watford",
+                "Young Boys"
+            ],
+            "correctAnswer": 1,
+            "category": "Stadiums",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q93",
+            "type": "multiple_choice",
+            "text": "Who was the top scorer of the 2023-24 UEFA Champions League?",
+            "options": [
+                "Erling Haaland",
+                "Kylian Mbappé",
+                "Harry Kane",
+                "Both Kane and Mbappé (tied)"
+            ],
+            "correctAnswer": 3,
+            "category": "Records",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q94",
+            "type": "multiple_choice",
+            "text": "Which country is known as 'The Socceroos'?",
+            "options": [
+                "New Zealand",
+                "Australia",
+                "South Africa",
+                "USA"
+            ],
+            "correctAnswer": 1,
+            "category": "International",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q95",
+            "type": "multiple_choice",
+            "text": "Which club won the 'Treble' (League, FA Cup, Champions League) in 2023?",
+            "options": [
+                "Liverpool",
+                "Real Madrid",
+                "Manchester City",
+                "Bayern Munich"
+            ],
+            "correctAnswer": 2,
+            "category": "Club Football",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q96",
+            "type": "multiple_choice",
+            "text": "What is the maximum number of players a team can have on the pitch to avoid forfeiting the match?",
+            "options": [
+                "11",
+                "9",
+                "7",
+                "6"
+            ],
+            "correctAnswer": 2,
+            "category": "Rules",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q97",
+            "type": "multiple_choice",
+            "text": "Which legendary player was known as 'The Black Panther'?",
+            "options": [
+                "Pelé",
+                "Eusébio",
+                "Samuel Eto'o",
+                "Didier Drogba"
+            ],
+            "correctAnswer": 1,
+            "category": "History",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q98",
+            "type": "multiple_choice",
+            "text": "In which country is the stadium 'La Bombonera' located?",
+            "options": [
+                "Brazil",
+                "Mexico",
+                "Argentina",
+                "Spain"
+            ],
+            "correctAnswer": 2,
+            "category": "Stadiums",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q99",
+            "type": "multiple_choice",
+            "text": "True or False: If the ball hits the referee and stays in play, the game always continues without a drop-ball.",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correctAnswer": 1,
+            "category": "Rules",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q100",
+            "type": "multiple_choice",
+            "text": "Who won the FIFA Puskás Award for the best goal in 2023?",
+            "options": [
+                "Guilherme Madruga",
+                "Lionel Messi",
+                "Cristiano Ronaldo",
+                "Dimitri Payet"
+            ],
+            "correctAnswer": 0,
+            "category": "Awards",
+            "difficulty": "hard"
+        }
+    ],
+    [
+        {
+            "id": "q101",
+            "type": "multiple_choice",
+            "text": "Which club has won the most Campeonato Brasileiro Série A titles?",
+            "options": [
+                "Flamengo",
+                "Palmeiras",
+                "Santos",
+                "São Paulo"
+            ],
+            "correctAnswer": 1,
+            "category": "Brazilian League",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q102",
+            "type": "multiple_choice",
+            "text": "Who is the all-time top scorer in the history of La Liga?",
+            "options": [
+                "Cristiano Ronaldo",
+                "Raúl",
+                "Lionel Messi",
+                "Telmo Zarra"
+            ],
+            "correctAnswer": 2,
+            "category": "La Liga",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q103",
+            "type": "multiple_choice",
+            "text": "Which Premier League team is the only one to receive a gold version of the trophy?",
+            "options": [
+                "Manchester United",
+                "Manchester City",
+                "Arsenal",
+                "Chelsea"
+            ],
+            "correctAnswer": 2,
+            "category": "Premier League",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q104",
+            "type": "multiple_choice",
+            "text": "In the Brazilian 'Choque-Rei' derby, which two teams face each other?",
+            "options": [
+                "Corinthians vs Palmeiras",
+                "São Paulo vs Palmeiras",
+                "Flamengo vs Vasco",
+                "Grêmio vs Internacional"
+            ],
+            "correctAnswer": 1,
+            "category": "Brazilian League",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q105",
+            "type": "multiple_choice",
+            "text": "Which Spanish club is known as 'Los Colchoneros' (The Mattress Makers)?",
+            "options": [
+                "Real Betis",
+                "Athletic Bilbao",
+                "Atlético Madrid",
+                "Sevilla"
+            ],
+            "correctAnswer": 2,
+            "category": "La Liga",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q106",
+            "type": "multiple_choice",
+            "text": "Who holds the record for the most Premier League appearances?",
+            "options": [
+                "Ryan Giggs",
+                "Gareth Barry",
+                "Frank Lampard",
+                "James Milner"
+            ],
+            "correctAnswer": 1,
+            "category": "Premier League",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q107",
+            "type": "multiple_choice",
+            "text": "Which Brazilian legend scored his 1,000th career goal at the Maracanã in 1969?",
+            "options": [
+                "Zico",
+                "Romário",
+                "Pelé",
+                "Garrincha"
+            ],
+            "correctAnswer": 2,
+            "category": "Brazilian League",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q108",
+            "type": "multiple_choice",
+            "text": "The 'El Clásico' refers to the match between which two teams?",
+            "options": [
+                "Real Madrid vs Atlético Madrid",
+                "Barcelona vs Espanyol",
+                "Real Madrid vs Barcelona",
+                "Sevilla vs Real Betis"
+            ],
+            "correctAnswer": 2,
+            "category": "La Liga",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q109",
+            "type": "multiple_choice",
+            "text": "Which club won the Premier League in the 2003-2004 season without losing a single game?",
+            "options": [
+                "Manchester United",
+                "Chelsea",
+                "Arsenal",
+                "Liverpool"
+            ],
+            "correctAnswer": 2,
+            "category": "Premier League",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q110",
+            "type": "multiple_choice",
+            "text": "Which team is the only one from outside a state capital to win the Brasileirão?",
+            "options": [
+                "Santos",
+                "Guarani",
+                "Bragantino",
+                "Chapecoense"
+            ],
+            "correctAnswer": 1,
+            "category": "Brazilian League",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q111",
+            "type": "multiple_choice",
+            "text": "What is the nickname for the derby between Sevilla and Real Betis?",
+            "options": [
+                "Derbi Madrileño",
+                "Derbi Barceloní",
+                "El Gran Derbi",
+                "Derbi de la Comunitat"
+            ],
+            "correctAnswer": 2,
+            "category": "La Liga",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q112",
+            "type": "multiple_choice",
+            "text": "Which player has won the most Premier League Player of the Month awards (as of 2024)?",
+            "options": [
+                "Harry Kane",
+                "Sergio Agüero",
+                "Both Kane and Agüero (tied)",
+                "Steven Gerrard"
+            ],
+            "correctAnswer": 2,
+            "category": "Premier League",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q113",
+            "type": "multiple_choice",
+            "text": "Which Brazilian club is known as 'O Imortal'?",
+            "options": [
+                "Flamengo",
+                "Grêmio",
+                "Cruzeiro",
+                "Botafogo"
+            ],
+            "correctAnswer": 1,
+            "category": "Brazilian League",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q114",
+            "type": "multiple_choice",
+            "text": "In La Liga, what is the 'Pichichi' trophy awarded for?",
+            "options": [
+                "Best Goalkeeper",
+                "Top Scorer",
+                "Best Young Player",
+                "Most Clean Sheets"
+            ],
+            "correctAnswer": 1,
+            "category": "La Liga",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q115",
+            "type": "multiple_choice",
+            "text": "Which team holds the record for the most points in a single Premier League season (100 points)?",
+            "options": [
+                "Liverpool",
+                "Manchester United",
+                "Manchester City",
+                "Chelsea"
+            ],
+            "correctAnswer": 2,
+            "category": "Premier League",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q116",
+            "type": "multiple_choice",
+            "text": "Who was the first coach to lead a Brazilian club to three consecutive Série A titles?",
+            "options": [
+                "Telê Santana",
+                "Muricy Ramalho",
+                "Tite",
+                "Luiz Felipe Scolari"
+            ],
+            "correctAnswer": 1,
+            "category": "Brazilian League",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q117",
+            "type": "multiple_choice",
+            "text": "Which stadium is the largest in La Liga by capacity?",
+            "options": [
+                "Santiago Bernabéu",
+                "Metropolitano",
+                "Camp Nou",
+                "San Mamés"
+            ],
+            "correctAnswer": 2,
+            "category": "La Liga",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q118",
+            "type": "multiple_choice",
+            "text": "Which player holds the record for the most assists in a single Premier League season (20)?",
+            "options": [
+                "Kevin De Bruyne",
+                "Thierry Henry",
+                "Both De Bruyne and Henry (tied)",
+                "Mesut Özil"
+            ],
+            "correctAnswer": 2,
+            "category": "Premier League",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q119",
+            "type": "multiple_choice",
+            "text": "Which team won the first edition of the unified Brasileirão in 1959 (Taça Brasil)?",
+            "options": [
+                "Bahia",
+                "Santos",
+                "Palmeiras",
+                "Botafogo"
+            ],
+            "correctAnswer": 0,
+            "category": "Brazilian League",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q120",
+            "type": "multiple_choice",
+            "text": "Which Spanish club is unique for its policy of only signing players from the Basque Country?",
+            "options": [
+                "Real Sociedad",
+                "Athletic Bilbao",
+                "Osasuna",
+                "Alavés"
+            ],
+            "correctAnswer": 1,
+            "category": "La Liga",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q121",
+            "type": "multiple_choice",
+            "text": "Who is the only manager to have won the Premier League with two different clubs?",
+            "options": [
+                "Alex Ferguson",
+                "José Mourinho",
+                "Kenny Dalglish",
+                "Carlo Ancelotti"
+            ],
+            "correctAnswer": 2,
+            "category": "Premier League",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q122",
+            "type": "multiple_choice",
+            "text": "What is the name of the trophy awarded to the winner of the Brazilian Série A?",
+            "options": [
+                "Taça das Bolinhas",
+                "Troféu Roberto Gomes Pedrosa",
+                "Troféu Brasileirão",
+                "Taça Brasil"
+            ],
+            "correctAnswer": 2,
+            "category": "Brazilian League",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q123",
+            "type": "multiple_choice",
+            "text": "Which city is home to the clubs Valencia CF and Levante UD?",
+            "options": [
+                "Barcelona",
+                "Madrid",
+                "Valencia",
+                "Seville"
+            ],
+            "correctAnswer": 2,
+            "category": "La Liga",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q124",
+            "type": "multiple_choice",
+            "text": "Who was the first player to score 30+ goals in a 38-game Premier League season?",
+            "options": [
+                "Cristiano Ronaldo",
+                "Alan Shearer",
+                "Thierry Henry",
+                "Kevin Phillips"
+            ],
+            "correctAnswer": 1,
+            "category": "Premier League",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q125",
+            "type": "multiple_choice",
+            "text": "Which club is known as the 'Alvinegro Praiano'?",
+            "options": [
+                "Corinthians",
+                "Santos",
+                "Botafogo",
+                "Ceará"
+            ],
+            "correctAnswer": 1,
+            "category": "Brazilian League",
+            "difficulty": "medium"
+        }
+    ],
+    [
+        {
+            "id": "q126",
+            "type": "multiple_choice",
+            "text": "Which club has won the most Copa Libertadores titles in history?",
+            "options": [
+                "Boca Juniors",
+                "Independiente",
+                "Peñarol",
+                "Palmeiras"
+            ],
+            "correctAnswer": 1,
+            "category": "Libertadores",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q127",
+            "type": "multiple_choice",
+            "text": "Who is the only player to have won the FIFA World Cup three times?",
+            "options": [
+                "Diego Maradona",
+                "Zinedine Zidane",
+                "Pelé",
+                "Franz Beckenbauer"
+            ],
+            "correctAnswer": 2,
+            "category": "World Cup",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q128",
+            "type": "multiple_choice",
+            "text": "Which team won the first-ever FIFA Club World Championship held in 2000?",
+            "options": [
+                "Real Madrid",
+                "Manchester United",
+                "Corinthians",
+                "Vasco da Gama"
+            ],
+            "correctAnswer": 2,
+            "category": "FIFA Tournaments",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q129",
+            "type": "multiple_choice",
+            "text": "Which player holds the record for the most goals in a single Champions League season (17 goals)?",
+            "options": [
+                "Lionel Messi",
+                "Cristiano Ronaldo",
+                "Robert Lewandowski",
+                "Karim Benzema"
+            ],
+            "correctAnswer": 1,
+            "category": "Champions League",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q130",
+            "type": "multiple_choice",
+            "text": "In the Copa Libertadores, what happens if the aggregate score is tied after two legs in the Final (current format)?",
+            "options": [
+                "Away goals rule applies",
+                "Immediate penalty shootout",
+                "30 minutes of extra time, then penalties",
+                "A third match is played at a neutral site"
+            ],
+            "correctAnswer": 2,
+            "category": "Libertadores",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q131",
+            "type": "multiple_choice",
+            "text": "Which country has reached the most World Cup finals without ever winning the trophy?",
+            "options": [
+                "Netherlands",
+                "Hungary",
+                "Sweden",
+                "Croatia"
+            ],
+            "correctAnswer": 0,
+            "category": "World Cup",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q132",
+            "type": "multiple_choice",
+            "text": "Who was the first manager to win the Champions League three times in a row with the same club?",
+            "options": [
+                "Pep Guardiola",
+                "Zinedine Zidane",
+                "Bob Paisley",
+                "Carlo Ancelotti"
+            ],
+            "correctAnswer": 1,
+            "category": "Champions League",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q133",
+            "type": "multiple_choice",
+            "text": "Which player is the all-time top scorer of the Copa Libertadores?",
+            "options": [
+                "Gabigol",
+                "Alberto Spencer",
+                "Fernando Morena",
+                "Pedro"
+            ],
+            "correctAnswer": 1,
+            "category": "Libertadores",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q134",
+            "type": "multiple_choice",
+            "text": "Which stadium hosted the first-ever FIFA World Cup final in 1930?",
+            "options": [
+                "Maracanã",
+                "Estadio Centenario",
+                "Wembley",
+                "Stade de France"
+            ],
+            "correctAnswer": 1,
+            "category": "World Cup",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q135",
+            "type": "multiple_choice",
+            "text": "Which club is the most successful in the history of the FIFA Club World Cup (most titles)?",
+            "options": [
+                "Barcelona",
+                "Bayern Munich",
+                "Real Madrid",
+                "Liverpool"
+            ],
+            "correctAnswer": 2,
+            "category": "FIFA Tournaments",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q136",
+            "type": "multiple_choice",
+            "text": "True or False: In the Champions League, players receive a one-match ban after accumulating three yellow cards.",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correctAnswer": 0,
+            "category": "Champions League",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q137",
+            "type": "multiple_choice",
+            "text": "Which Brazilian team won the Libertadores twice in the same calendar year (due to schedule changes)?",
+            "options": [
+                "Flamengo",
+                "Palmeiras",
+                "Santos",
+                "Grêmio"
+            ],
+            "correctAnswer": 1,
+            "category": "Libertadores",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q138",
+            "type": "multiple_choice",
+            "text": "Who scored the winning goal for Germany in the 2014 World Cup Final?",
+            "options": [
+                "Thomas Müller",
+                "Miroslav Klose",
+                "Mario Götze",
+                "Bastian Schweinsteiger"
+            ],
+            "correctAnswer": 2,
+            "category": "World Cup",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q139",
+            "type": "multiple_choice",
+            "text": "Which city hosted the 2005 Champions League Final, famously known as the 'Miracle of Istanbul'?",
+            "options": [
+                "Ankara",
+                "Antalya",
+                "Istanbul",
+                "Bursa"
+            ],
+            "correctAnswer": 2,
+            "category": "Champions League",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q140",
+            "type": "multiple_choice",
+            "text": "Which country won the first-ever FIFA Confederations Cup in 1992 (originally King Fahd Cup)?",
+            "options": [
+                "Brazil",
+                "Argentina",
+                "France",
+                "Saudi Arabia"
+            ],
+            "correctAnswer": 1,
+            "category": "FIFA Tournaments",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q141",
+            "type": "multiple_choice",
+            "text": "Who is the only player to have scored in two different World Cup finals for two different winning years?",
+            "options": [
+                "Pelé",
+                "Vavá",
+                "Zinedine Zidane",
+                "All of the above"
+            ],
+            "correctAnswer": 3,
+            "category": "World Cup",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q142",
+            "type": "multiple_choice",
+            "text": "Which non-South American or European club was the first to reach a FIFA Club World Cup final?",
+            "options": [
+                "Al-Ahly",
+                "TP Mazembe",
+                "Raja Casablanca",
+                "Kashima Antlers"
+            ],
+            "correctAnswer": 1,
+            "category": "FIFA Tournaments",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q143",
+            "type": "multiple_choice",
+            "text": "Which club won five consecutive European Cups (now Champions League) from 1956 to 1960?",
+            "options": [
+                "AC Milan",
+                "Ajax",
+                "Real Madrid",
+                "Benfica"
+            ],
+            "correctAnswer": 2,
+            "category": "Champions League",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q144",
+            "type": "multiple_choice",
+            "text": "What is the name of the trophy awarded to the winner of the FIFA World Cup?",
+            "options": [
+                "Jules Rimet Trophy",
+                "FIFA World Cup Trophy",
+                "The Golden Cup",
+                "The Victory Trophy"
+            ],
+            "correctAnswer": 1,
+            "category": "World Cup",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q145",
+            "type": "multiple_choice",
+            "text": "Which manager won the 'Sextuple' (six trophies in one year) with Barcelona in 2009?",
+            "options": [
+                "Luis Enrique",
+                "Pep Guardiola",
+                "Frank Rijkaard",
+                "Tito Vilanova"
+            ],
+            "correctAnswer": 1,
+            "category": "Champions League",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q146",
+            "type": "multiple_choice",
+            "text": "Which Brazilian club won the Libertadores in 2013, with Ronaldinho Gaúcho as their star player?",
+            "options": [
+                "Atlético Mineiro",
+                "Cruzeiro",
+                "Fluminense",
+                "Internacional"
+            ],
+            "correctAnswer": 0,
+            "category": "Libertadores",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q147",
+            "type": "multiple_choice",
+            "text": "In the World Cup, what is the 'Golden Glove' award given for?",
+            "options": [
+                "Most assists",
+                "Best goalkeeper",
+                "Best player of the tournament",
+                "Fair play"
+            ],
+            "correctAnswer": 1,
+            "category": "Awards",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q148",
+            "type": "multiple_choice",
+            "text": "Which country hosted the 2002 FIFA World Cup?",
+            "options": [
+                "Japan and South Korea",
+                "China",
+                "France",
+                "USA"
+            ],
+            "correctAnswer": 0,
+            "category": "World Cup",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q149",
+            "type": "multiple_choice",
+            "text": "Which club has lost the most Champions League finals (7)?",
+            "options": [
+                "Bayern Munich",
+                "Juventus",
+                "Benfica",
+                "Atletico Madrid"
+            ],
+            "correctAnswer": 1,
+            "category": "Champions League",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q150",
+            "type": "multiple_choice",
+            "text": "Who was the first player to score in a FIFA Club World Cup Final for two different winning clubs?",
+            "options": [
+                "Lionel Messi",
+                "Cristiano Ronaldo",
+                "Robert Lewandowski",
+                "Neymar"
+            ],
+            "correctAnswer": 1,
+            "category": "FIFA Tournaments",
+            "difficulty": "hard"
+        }
+    ],
+    [
+        {
+            "id": "q151",
+            "type": "multiple_choice",
+            "text": "Who was the first player to be sold for a transfer fee of over £100 million?",
+            "options": [
+                "Cristiano Ronaldo",
+                "Neymar Jr",
+                "Paul Pogba",
+                "Gareth Bale"
+            ],
+            "correctAnswer": 1,
+            "category": "Transfers",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q152",
+            "type": "multiple_choice",
+            "text": "Which player holds the record for the most goals scored in a single calendar year (91 goals)?",
+            "options": [
+                "Cristiano Ronaldo",
+                "Gerd Müller",
+                "Lionel Messi",
+                "Pelé"
+            ],
+            "correctAnswer": 2,
+            "category": "Records",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q153",
+            "type": "multiple_choice",
+            "text": "Which Brazilian club is known as 'O Time da Virada'?",
+            "options": [
+                "Vasco da Gama",
+                "Flamengo",
+                "Palmeiras",
+                "Fluminense"
+            ],
+            "correctAnswer": 0,
+            "category": "Brazilian League",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q154",
+            "type": "multiple_choice",
+            "text": "True or False: Real Madrid won the first five editions of the European Cup (Champions League).",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correctAnswer": 0,
+            "category": "Champions League",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q155",
+            "type": "multiple_choice",
+            "text": "Who is the only player to score in a Champions League final, a World Cup final, a Cup Final, and a Derby match in the same season?",
+            "options": [
+                "Zinedine Zidane",
+                "Didier Drogba",
+                "Lionel Messi",
+                "Cristiano Ronaldo"
+            ],
+            "correctAnswer": 1,
+            "category": "Records",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q156",
+            "type": "multiple_choice",
+            "text": "In the Premier League, which player has provided the most assists in a single match (4 assists)?",
+            "options": [
+                "Cesc Fàbregas",
+                "Paul Pogba",
+                "Harry Kane",
+                "All of the above"
+            ],
+            "correctAnswer": 3,
+            "category": "Premier League",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q157",
+            "type": "multiple_choice",
+            "text": "Which stadium hosted the 2014 World Cup Final where Germany beat Argentina?",
+            "options": [
+                "Mineirão",
+                "Maracanã",
+                "Arena Corinthians",
+                "Estádio Nacional"
+            ],
+            "correctAnswer": 1,
+            "category": "World Cup",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q158",
+            "type": "multiple_choice",
+            "text": "Which club did Cristiano Ronaldo join after leaving Manchester United for the first time in 2009?",
+            "options": [
+                "Juventus",
+                "Real Madrid",
+                "Sporting CP",
+                "PSG"
+            ],
+            "correctAnswer": 1,
+            "category": "Transfers",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q159",
+            "type": "multiple_choice",
+            "text": "Which team won the first-ever Copa Libertadores title in 1960?",
+            "options": [
+                "Santos",
+                "Peñarol",
+                "Olimpia",
+                "Palmeiras"
+            ],
+            "correctAnswer": 1,
+            "category": "Libertadores",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q160",
+            "type": "multiple_choice",
+            "text": "Who is the all-time top scorer for the Brazil national team in official matches?",
+            "options": [
+                "Pelé",
+                "Neymar Jr",
+                "Ronaldo Nazário",
+                "Romário"
+            ],
+            "correctAnswer": 1,
+            "category": "Records",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q161",
+            "type": "multiple_choice",
+            "text": "Which English club is known as 'The Toffees'?",
+            "options": [
+                "Leicester City",
+                "Everton",
+                "Burnley",
+                "Watford"
+            ],
+            "correctAnswer": 1,
+            "category": "Clubs",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q162",
+            "type": "multiple_choice",
+            "text": "Who scored the fastest goal in Premier League history (7.69 seconds)?",
+            "options": [
+                "Shane Long",
+                "Ledley King",
+                "Alan Shearer",
+                "Christian Eriksen"
+            ],
+            "correctAnswer": 0,
+            "category": "Records",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q163",
+            "type": "multiple_choice",
+            "text": "Which Spanish club plays their home games at the Mestalla Stadium?",
+            "options": [
+                "Sevilla",
+                "Valencia",
+                "Villarreal",
+                "Real Betis"
+            ],
+            "correctAnswer": 1,
+            "category": "La Liga",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q164",
+            "type": "multiple_choice",
+            "text": "Which country hosted the 1970 World Cup, often cited as the greatest tournament ever?",
+            "options": [
+                "Brazil",
+                "Mexico",
+                "Italy",
+                "England"
+            ],
+            "correctAnswer": 1,
+            "category": "World Cup",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q165",
+            "type": "multiple_choice",
+            "text": "True or False: A player can be offside in their own half of the pitch.",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correctAnswer": 1,
+            "category": "Rules",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q166",
+            "type": "multiple_choice",
+            "text": "Which Brazilian manager led Portugal to the Euro 2004 Final and Brazil to the 2002 World Cup title?",
+            "options": [
+                "Tite",
+                "Luiz Felipe Scolari",
+                "Carlos Alberto Parreira",
+                "Vanderlei Luxemburgo"
+            ],
+            "correctAnswer": 1,
+            "category": "Managers",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q167",
+            "type": "multiple_choice",
+            "text": "Who was the first British player to win the Champions League with a non-British club?",
+            "options": [
+                "Steve McManaman",
+                "David Beckham",
+                "Gareth Bale",
+                "Owen Hargreaves"
+            ],
+            "correctAnswer": 0,
+            "category": "Champions League",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q168",
+            "type": "multiple_choice",
+            "text": "Which team won the 2021 Copa América, ending a 28-year trophy drought?",
+            "options": [
+                "Brazil",
+                "Argentina",
+                "Chile",
+                "Uruguay"
+            ],
+            "correctAnswer": 1,
+            "category": "International",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q169",
+            "type": "multiple_choice",
+            "text": "Which club is known as 'O Clube da Fé' (The Faith Club)?",
+            "options": [
+                "São Paulo",
+                "Corinthians",
+                "Santos",
+                "Botafogo"
+            ],
+            "correctAnswer": 0,
+            "category": "Brazilian League",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q170",
+            "type": "multiple_choice",
+            "text": "What is the maximum number of players allowed on a team's substitute bench in a World Cup match?",
+            "options": [
+                "7",
+                "12",
+                "15",
+                "23"
+            ],
+            "correctAnswer": 2,
+            "category": "Rules",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q171",
+            "type": "multiple_choice",
+            "text": "Who is the youngest player to ever play and score in a World Cup final?",
+            "options": [
+                "Kylian Mbappé",
+                "Pelé",
+                "Lionel Messi",
+                "Ronaldo Nazário"
+            ],
+            "correctAnswer": 1,
+            "category": "World Cup",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q172",
+            "type": "multiple_choice",
+            "text": "In the Premier League, what is the nickname of Crystal Palace?",
+            "options": [
+                "The Eagles",
+                "The Lions",
+                "The Wolves",
+                "The Hornets"
+            ],
+            "correctAnswer": 0,
+            "category": "Clubs",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q173",
+            "type": "multiple_choice",
+            "text": "Which player won the Golden Ball at the 2018 World Cup?",
+            "options": [
+                "Antoine Griezmann",
+                "Luka Modrić",
+                "Kylian Mbappé",
+                "Eden Hazard"
+            ],
+            "correctAnswer": 1,
+            "category": "Awards",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q174",
+            "type": "multiple_choice",
+            "text": "Which club has won the most 'Europa League' (formerly UEFA Cup) titles?",
+            "options": [
+                "Liverpool",
+                "Sevilla",
+                "Inter Milan",
+                "Juventus"
+            ],
+            "correctAnswer": 1,
+            "category": "International",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q175",
+            "type": "multiple_choice",
+            "text": "Which Brazilian player was known as 'O Galinho de Quintino'?",
+            "options": [
+                "Zico",
+                "Sócrates",
+                "Falcao",
+                "Rivellino"
+            ],
+            "correctAnswer": 0,
+            "category": "History",
+            "difficulty": "medium"
+        }
+    ],
+    [
+        {
+            "id": "q176",
+            "type": "multiple_choice",
+            "text": "Who is the only person to win the FIFA World Cup as both a player and a manager for the Brazil national team?",
+            "options": [
+                "Mário Zagallo",
+                "Dunga",
+                "Carlos Alberto Parreira",
+                "Tite"
+            ],
+            "correctAnswer": 0,
+            "category": "World Cup",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q177",
+            "type": "multiple_choice",
+            "text": "Which club's youth academy, known as 'La Fábrica', produced stars like Raúl and Iker Casillas?",
+            "options": [
+                "Barcelona",
+                "Real Madrid",
+                "Atletico Madrid",
+                "Valencia"
+            ],
+            "correctAnswer": 1,
+            "category": "La Liga",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q178",
+            "type": "multiple_choice",
+            "text": "Which manager is famous for the 'Heavy Metal Football' tactical style?",
+            "options": [
+                "Pep Guardiola",
+                "Thomas Tuchel",
+                "Jürgen Klopp",
+                "Julian Nagelsmann"
+            ],
+            "correctAnswer": 2,
+            "category": "Managers",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q179",
+            "type": "multiple_choice",
+            "text": "Which Brazilian club's stadium is known as 'Vila Belmiro'?",
+            "options": [
+                "Santos",
+                "Palmeiras",
+                "Corinthians",
+                "São Paulo"
+            ],
+            "correctAnswer": 0,
+            "category": "Brazilian League",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q180",
+            "type": "multiple_choice",
+            "text": "True or False: A referee can show a red card to a player before the match has even kicked off.",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correctAnswer": 0,
+            "category": "Rules",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q181",
+            "type": "multiple_choice",
+            "text": "Which player holds the record for the most goals scored in a single World Cup match (5 goals)?",
+            "options": [
+                "Oleg Salenko",
+                "Roger Milla",
+                "Eusébio",
+                "Miroslav Klose"
+            ],
+            "correctAnswer": 0,
+            "category": "World Cup",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q182",
+            "type": "multiple_choice",
+            "text": "Which English club plays at the stadium 'St. James' Park'?",
+            "options": [
+                "Sunderland",
+                "Newcastle United",
+                "Middlesbrough",
+                "Leeds United"
+            ],
+            "correctAnswer": 1,
+            "category": "Premier League",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q183",
+            "type": "multiple_choice",
+            "text": "Who was the manager of the Brazil team during the infamous 1-7 defeat to Germany in 2014?",
+            "options": [
+                "Mano Menezes",
+                "Dunga",
+                "Luiz Felipe Scolari",
+                "Adenor Bacchi (Tite)"
+            ],
+            "correctAnswer": 2,
+            "category": "History",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q184",
+            "type": "multiple_choice",
+            "text": "Which player is the all-time leading goalscorer in the North London Derby (Arsenal vs Tottenham)?",
+            "options": [
+                "Thierry Henry",
+                "Harry Kane",
+                "Emmanuel Adebayor",
+                "Robert Pires"
+            ],
+            "correctAnswer": 1,
+            "category": "Premier League",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q185",
+            "type": "multiple_choice",
+            "text": "Which club won the first-ever 'Copa do Brasil' in 1989?",
+            "options": [
+                "Grêmio",
+                "Flamengo",
+                "Cruzeiro",
+                "Sport Recife"
+            ],
+            "correctAnswer": 0,
+            "category": "Brazilian League",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q186",
+            "type": "multiple_choice",
+            "text": "What is the name of the official ball used in the 2022 FIFA World Cup?",
+            "options": [
+                "Jabulani",
+                "Brazuca",
+                "Al Rihla",
+                "Telstar"
+            ],
+            "correctAnswer": 2,
+            "category": "World Cup",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q187",
+            "type": "multiple_choice",
+            "text": "Which legendary manager won the Champions League with both FC Porto and Inter Milan?",
+            "options": [
+                "José Mourinho",
+                "Guus Hiddink",
+                "Louis van Gaal",
+                "Rafael Benítez"
+            ],
+            "correctAnswer": 0,
+            "category": "Managers",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q188",
+            "type": "multiple_choice",
+            "text": "Which Brazilian player was the first to win the FIFA World Player of the Year award (now The Best) in 1994?",
+            "options": [
+                "Ronaldo Nazário",
+                "Romário",
+                "Bebeto",
+                "Cafu"
+            ],
+            "correctAnswer": 1,
+            "category": "Awards",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q189",
+            "type": "multiple_choice",
+            "text": "In La Liga, which team is nicknamed 'Los Periquitos' (The Budgies)?",
+            "options": [
+                "Getafe",
+                "Espanyol",
+                "Levante",
+                "Eibar"
+            ],
+            "correctAnswer": 1,
+            "category": "La Liga",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q190",
+            "type": "multiple_choice",
+            "text": "True or False: If a player scores directly from a goal kick into the opponent's goal, it counts as a goal.",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correctAnswer": 0,
+            "category": "Rules",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q191",
+            "type": "multiple_choice",
+            "text": "Who is the only player to score in every round of a single World Cup (Group, Round of 16, Quarter, Semi, Final)?",
+            "options": [
+                "Lionel Messi",
+                "Jairzinho",
+                "Just Fontaine",
+                "Ronaldo Nazário"
+            ],
+            "correctAnswer": 1,
+            "category": "World Cup",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q192",
+            "type": "multiple_choice",
+            "text": "Which club is known as 'The Magpies'?",
+            "options": [
+                "Nottingham Forest",
+                "Newcastle United",
+                "Swansea City",
+                "Cardiff City"
+            ],
+            "correctAnswer": 1,
+            "category": "Clubs",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q193",
+            "type": "multiple_choice",
+            "text": "Which manager has managed the most matches in Premier League history?",
+            "options": [
+                "Sir Alex Ferguson",
+                "Arsène Wenger",
+                "David Moyes",
+                "Harry Redknapp"
+            ],
+            "correctAnswer": 1,
+            "category": "Records",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q194",
+            "type": "multiple_choice",
+            "text": "Which team won the Copa Libertadores in 2023 for the first time in their history?",
+            "options": [
+                "Fluminense",
+                "Botafogo",
+                "Athletico Paranaense",
+                "LDU Quito"
+            ],
+            "correctAnswer": 0,
+            "category": "Libertadores",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q195",
+            "type": "multiple_choice",
+            "text": "What color kit did Brazil wear before they adopted the iconic yellow and green after the 1950 World Cup loss?",
+            "options": [
+                "Blue",
+                "White",
+                "Red",
+                "Black"
+            ],
+            "correctAnswer": 1,
+            "category": "History",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q196",
+            "type": "multiple_choice",
+            "text": "Which player is famously known as 'The King of the Dribble' (O Rei do Drible)?",
+            "options": [
+                "Garrincha",
+                "Neymar",
+                "Ronaldinho",
+                "Denilson"
+            ],
+            "correctAnswer": 0,
+            "category": "History",
+            "difficulty": "easy"
+        },
+        {
+            "id": "q197",
+            "type": "multiple_choice",
+            "text": "Which Spanish city hosts the 'Derbi de la Comunitat'?",
+            "options": [
+                "Seville",
+                "Madrid",
+                "Valencia",
+                "Bilbao"
+            ],
+            "correctAnswer": 2,
+            "category": "La Liga",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q198",
+            "type": "multiple_choice",
+            "text": "Which English player won the Golden Boot at the 1986 World Cup?",
+            "options": [
+                "Gary Lineker",
+                "Alan Shearer",
+                "Peter Beardsley",
+                "Bobby Charlton"
+            ],
+            "correctAnswer": 0,
+            "category": "World Cup",
+            "difficulty": "medium"
+        },
+        {
+            "id": "q199",
+            "type": "multiple_choice",
+            "text": "Who was the first manager to win the 'European Treble' twice (with two different clubs)?",
+            "options": [
+                "Carlo Ancelotti",
+                "Pep Guardiola",
+                "José Mourinho",
+                "Sir Alex Ferguson"
+            ],
+            "correctAnswer": 1,
+            "category": "Managers",
+            "difficulty": "hard"
+        },
+        {
+            "id": "q200",
+            "type": "multiple_choice",
+            "text": "Which club is known as the 'Alvinegro do Parque Jorge'?",
+            "options": [
+                "Santos",
+                "Corinthians",
+                "Botafogo",
+                "Atlético Mineiro"
+            ],
+            "correctAnswer": 1,
+            "category": "Brazilian League",
+            "difficulty": "hard"
+        }
+    ]
+]

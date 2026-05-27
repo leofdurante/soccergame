@@ -1,0 +1,1976 @@
+[
+  {
+    "id": "ajax",
+    "name": "Ajax",
+    "logo": "club-logos/ajax",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "al-ahli",
+    "name": "Al Ahli",
+    "logo": "club-logos/al-ahli",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "al-ettifaq",
+    "name": "Al Ettifaq",
+    "logo": "club-logos/al-ettifaq",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "al-fateh",
+    "name": "Al Fateh",
+    "logo": "club-logos/al-fateh",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "al-fayha",
+    "name": "Al Fayha",
+    "logo": "club-logos/al-fayha",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "al-hazem",
+    "name": "Al Hazem",
+    "logo": "club-logos/al-hazem",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "al-hilal",
+    "name": "Al Hilal",
+    "logo": "club-logos/al-hilal",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "al-ittihad",
+    "name": "Al Ittihad",
+    "logo": "club-logos/al-ittihad",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "al-khaleej",
+    "name": "Al Khaleej",
+    "logo": "club-logos/al-khaleej",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "al-kholood",
+    "name": "Al Kholood",
+    "logo": "club-logos/al-kholood",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "al-najma",
+    "name": "Al Najma",
+    "logo": "club-logos/al-najma",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "al-nassr",
+    "name": "Al Nassr",
+    "logo": "club-logos/al-nassr",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "al-okhdood",
+    "name": "Al Okhdood",
+    "logo": "club-logos/al-okhdood",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "al-qadsiah",
+    "name": "Al Qadsiah",
+    "logo": "club-logos/al-qadsiah",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "al-riyadh",
+    "name": "Al Riyadh",
+    "logo": "club-logos/al-riyadh",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "al-shabab",
+    "name": "Al Shabab",
+    "logo": "club-logos/al-shabab",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "al-taawoun",
+    "name": "Al Taawoun",
+    "logo": "club-logos/al-taawoun",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "aldosivi",
+    "name": "Aldosivi",
+    "logo": "club-logos/aldosivi",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "algeria-national-team",
+    "name": "Algeria National Team",
+    "logo": "club-logos/algeria-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "amazonas",
+    "name": "Amazonas",
+    "logo": "club-logos/amazonas",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "america-mineiro",
+    "name": "America Mineiro",
+    "logo": "club-logos/america-mineiro",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "angers",
+    "name": "Angers",
+    "logo": "club-logos/angers",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "argeninos-juniors",
+    "name": "Argeninos Juniors",
+    "logo": "club-logos/argeninos-juniors",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "argentina-national-team",
+    "name": "Argentina National Team",
+    "logo": "club-logos/argentina-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "arsenal",
+    "name": "Arsenal",
+    "logo": "club-logos/arsenal",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "as-monaco",
+    "name": "As Monaco",
+    "logo": "club-logos/as-monaco",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "aston-villa",
+    "name": "Aston Villa",
+    "logo": "club-logos/aston-villa",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "atalanta",
+    "name": "Atalanta",
+    "logo": "club-logos/atalanta",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "athletic",
+    "name": "Athletic",
+    "logo": "club-logos/athletic",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "athletic-club",
+    "name": "Athletic Club",
+    "logo": "club-logos/athletic-club",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "athletico-paranaense",
+    "name": "Athletico Paranaense",
+    "logo": "club-logos/athletico-paranaense",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "atlanta-united",
+    "name": "Atlanta United",
+    "logo": "club-logos/atlanta-united",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "atletico-goianiense",
+    "name": "Atletico Goianiense",
+    "logo": "club-logos/atletico-goianiense",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "atletico-madrid",
+    "name": "Atletico Madrid",
+    "logo": "club-logos/atletico-madrid",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "atletico-mineiro",
+    "name": "Atletico Mineiro",
+    "logo": "club-logos/atletico-mineiro",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "atletico-tucuman",
+    "name": "Atletico Tucuman",
+    "logo": "club-logos/atletico-tucuman",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "augsburg",
+    "name": "Augsburg",
+    "logo": "club-logos/augsburg",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "austins-fc",
+    "name": "Austins Fc",
+    "logo": "club-logos/austins-fc",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "australia-national-team",
+    "name": "Australia National Team",
+    "logo": "club-logos/australia-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "austria-national-team",
+    "name": "Austria National Team",
+    "logo": "club-logos/austria-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "auxerre",
+    "name": "Auxerre",
+    "logo": "club-logos/auxerre",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "avai",
+    "name": "Avai",
+    "logo": "club-logos/avai",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "bahia",
+    "name": "Bahia",
+    "logo": "club-logos/bahia",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "banfield",
+    "name": "Banfield",
+    "logo": "club-logos/banfield",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "barcelona",
+    "name": "Barcelona",
+    "logo": "club-logos/barcelona",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "barracas-central",
+    "name": "Barracas Central",
+    "logo": "club-logos/barracas-central",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "basel",
+    "name": "Basel",
+    "logo": "club-logos/basel",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "bayer-leverkusen",
+    "name": "Bayer Leverkusen",
+    "logo": "club-logos/bayer-leverkusen",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "bayern-munchen",
+    "name": "Bayern Munchen",
+    "logo": "club-logos/bayern-munchen",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "belgium-national-team",
+    "name": "Belgium National Team",
+    "logo": "club-logos/belgium-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "belgrano",
+    "name": "Belgrano",
+    "logo": "club-logos/belgrano",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "benfica",
+    "name": "Benfica",
+    "logo": "club-logos/benfica",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "boca-juniors",
+    "name": "Boca Juniors",
+    "logo": "club-logos/boca-juniors",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "bodo-glimt",
+    "name": "Bodo Glimt",
+    "logo": "club-logos/bodo-glimt",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "bologna",
+    "name": "Bologna",
+    "logo": "club-logos/bologna",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "borussia-dortmund",
+    "name": "Borussia Dortmund",
+    "logo": "club-logos/borussia-dortmund",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "borussia-monchengladbach",
+    "name": "Borussia Monchengladbach",
+    "logo": "club-logos/borussia-monchengladbach",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "botafogo",
+    "name": "Botafogo",
+    "logo": "club-logos/botafogo",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "botafogo-sp",
+    "name": "Botafogo Sp",
+    "logo": "club-logos/botafogo-sp",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "bournemouth",
+    "name": "Bournemouth",
+    "logo": "club-logos/bournemouth",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "brann",
+    "name": "Brann",
+    "logo": "club-logos/brann",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "brazil-national-team",
+    "name": "Brazil National Team",
+    "logo": "club-logos/brazil-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "brentford",
+    "name": "Brentford",
+    "logo": "club-logos/brentford",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "brest",
+    "name": "Brest",
+    "logo": "club-logos/brest",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "brighton",
+    "name": "Brighton",
+    "logo": "club-logos/brighton",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "burnley",
+    "name": "Burnley",
+    "logo": "club-logos/burnley",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "ca-huracan",
+    "name": "Ca Huracan",
+    "logo": "club-logos/ca-huracan",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "cabo-verde-national-team",
+    "name": "Cabo Verde National Team",
+    "logo": "club-logos/cabo-verde-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "cagliari",
+    "name": "Cagliari",
+    "logo": "club-logos/cagliari",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "canada-national-team",
+    "name": "Canada National Team",
+    "logo": "club-logos/canada-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "ceara",
+    "name": "Ceara",
+    "logo": "club-logos/ceara",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "celta",
+    "name": "Celta",
+    "logo": "club-logos/celta",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "celtic",
+    "name": "Celtic",
+    "logo": "club-logos/celtic",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "central-cordoba",
+    "name": "Central Cordoba",
+    "logo": "club-logos/central-cordoba",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "cf-montreal",
+    "name": "Cf Montreal",
+    "logo": "club-logos/cf-montreal",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "chapecoense",
+    "name": "Chapecoense",
+    "logo": "club-logos/chapecoense",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "charlotte-fc",
+    "name": "Charlotte Fc",
+    "logo": "club-logos/charlotte-fc",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "chelsea",
+    "name": "Chelsea",
+    "logo": "club-logos/chelsea",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "chicago-fire-fc",
+    "name": "Chicago Fire Fc",
+    "logo": "club-logos/chicago-fire-fc",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "club-atletico-platanense",
+    "name": "Club Atletico Platanense",
+    "logo": "club-logos/club-atletico-platanense",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "club-brugge",
+    "name": "Club Brugge",
+    "logo": "club-logos/club-brugge",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "clube-do-remo",
+    "name": "Clube Do Remo",
+    "logo": "club-logos/clube-do-remo",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "colombia-national-team",
+    "name": "Colombia National Team",
+    "logo": "club-logos/colombia-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "colorado-rapids",
+    "name": "Colorado Rapids",
+    "logo": "club-logos/colorado-rapids",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "columbus-crew",
+    "name": "Columbus Crew",
+    "logo": "club-logos/columbus-crew",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "como-1907",
+    "name": "Como 1907",
+    "logo": "club-logos/como-1907",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "copenhagen",
+    "name": "Copenhagen",
+    "logo": "club-logos/copenhagen",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "corinthians",
+    "name": "Corinthians",
+    "logo": "club-logos/corinthians",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "coritiba",
+    "name": "Coritiba",
+    "logo": "club-logos/coritiba",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "cote-d-ivoire-national-team",
+    "name": "Cote D Ivoire National Team",
+    "logo": "club-logos/cote-d-ivoire-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "crb",
+    "name": "Crb",
+    "logo": "club-logos/crb",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "cremonese",
+    "name": "Cremonese",
+    "logo": "club-logos/cremonese",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "criciuma",
+    "name": "Criciuma",
+    "logo": "club-logos/criciuma",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "croatia-national-team",
+    "name": "Croatia National Team",
+    "logo": "club-logos/croatia-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "cruzeiro",
+    "name": "Cruzeiro",
+    "logo": "club-logos/cruzeiro",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "crvena-zvezda",
+    "name": "Crvena Zvezda",
+    "logo": "club-logos/crvena-zvezda",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "crystal-palace",
+    "name": "Crystal Palace",
+    "logo": "club-logos/crystal-palace",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "cuiaba",
+    "name": "Cuiaba",
+    "logo": "club-logos/cuiaba",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "curacao-national-team",
+    "name": "Curacao National Team",
+    "logo": "club-logos/curacao-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "damac",
+    "name": "Damac",
+    "logo": "club-logos/damac",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "dc-united",
+    "name": "Dc United",
+    "logo": "club-logos/dc-united",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "defensa-y-justicia",
+    "name": "Defensa Y Justicia",
+    "logo": "club-logos/defensa-y-justicia",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "deportivo-riestra",
+    "name": "Deportivo Riestra",
+    "logo": "club-logos/deportivo-riestra",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "dinamo-zagreb",
+    "name": "Dinamo Zagreb",
+    "logo": "club-logos/dinamo-zagreb",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "dutch-national-team",
+    "name": "Dutch National Team",
+    "logo": "club-logos/dutch-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "ecuador-national-team",
+    "name": "Ecuador National Team",
+    "logo": "club-logos/ecuador-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "egypt-national-team",
+    "name": "Egypt National Team",
+    "logo": "club-logos/egypt-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "eintracht-frankfurt",
+    "name": "Eintracht Frankfurt",
+    "logo": "club-logos/eintracht-frankfurt",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "england-national-team",
+    "name": "England National Team",
+    "logo": "club-logos/england-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "estudiantes-de-la-plata",
+    "name": "Estudiantes De La Plata",
+    "logo": "club-logos/estudiantes-de-la-plata",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "everton",
+    "name": "Everton",
+    "logo": "club-logos/everton",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "fc-cincinnati",
+    "name": "Fc Cincinnati",
+    "logo": "club-logos/fc-cincinnati",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "fc-dallas",
+    "name": "Fc Dallas",
+    "logo": "club-logos/fc-dallas",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "fc-heidenheim",
+    "name": "Fc Heidenheim",
+    "logo": "club-logos/fc-heidenheim",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "fc-metz",
+    "name": "Fc Metz",
+    "logo": "club-logos/fc-metz",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "fc-porto",
+    "name": "Fc Porto",
+    "logo": "club-logos/fc-porto",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "fc-utrecht",
+    "name": "Fc Utrecht",
+    "logo": "club-logos/fc-utrecht",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "fcsb",
+    "name": "Fcsb",
+    "logo": "club-logos/fcsb",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "fenerbahce",
+    "name": "Fenerbahce",
+    "logo": "club-logos/fenerbahce",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "ferencvaros",
+    "name": "Ferencvaros",
+    "logo": "club-logos/ferencvaros",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "ferroviaria",
+    "name": "Ferroviaria",
+    "logo": "club-logos/ferroviaria",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "feyenoord",
+    "name": "Feyenoord",
+    "logo": "club-logos/feyenoord",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "fiorentina",
+    "name": "Fiorentina",
+    "logo": "club-logos/fiorentina",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "flamengo",
+    "name": "Flamengo",
+    "logo": "club-logos/flamengo",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "fluminense",
+    "name": "Fluminense",
+    "logo": "club-logos/fluminense",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "fortaleza",
+    "name": "Fortaleza",
+    "logo": "club-logos/fortaleza",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "france-national-team",
+    "name": "France National Team",
+    "logo": "club-logos/france-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "freiburg",
+    "name": "Freiburg",
+    "logo": "club-logos/freiburg",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "fulham",
+    "name": "Fulham",
+    "logo": "club-logos/fulham",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "galatasaray",
+    "name": "Galatasaray",
+    "logo": "club-logos/galatasaray",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "genk",
+    "name": "Genk",
+    "logo": "club-logos/genk",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "genoa",
+    "name": "Genoa",
+    "logo": "club-logos/genoa",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "germany-national-team",
+    "name": "Germany National Team",
+    "logo": "club-logos/germany-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "ghana-national-team",
+    "name": "Ghana National Team",
+    "logo": "club-logos/ghana-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "gimnasia-lp",
+    "name": "Gimnasia Lp",
+    "logo": "club-logos/gimnasia-lp",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "go-ahead-eagles",
+    "name": "Go Ahead Eagles",
+    "logo": "club-logos/go-ahead-eagles",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "godoy-cruz",
+    "name": "Godoy Cruz",
+    "logo": "club-logos/godoy-cruz",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "goias",
+    "name": "Goias",
+    "logo": "club-logos/goias",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "gremio",
+    "name": "Gremio",
+    "logo": "club-logos/gremio",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "haiti-national-team",
+    "name": "Haiti National Team",
+    "logo": "club-logos/haiti-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "hamburger-sv",
+    "name": "Hamburger Sv",
+    "logo": "club-logos/hamburger-sv",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "hoffenheim",
+    "name": "Hoffenheim",
+    "logo": "club-logos/hoffenheim",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "houston-dynamo",
+    "name": "Houston Dynamo",
+    "logo": "club-logos/houston-dynamo",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "independiente",
+    "name": "Independiente",
+    "logo": "club-logos/independiente",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "independiente-rivadavia",
+    "name": "Independiente Rivadavia",
+    "logo": "club-logos/independiente-rivadavia",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "instituto-cordoba",
+    "name": "Instituto Cordoba",
+    "logo": "club-logos/instituto-cordoba",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "inter",
+    "name": "Inter",
+    "logo": "club-logos/inter",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "inter-miami-cf",
+    "name": "Inter Miami Cf",
+    "logo": "club-logos/inter-miami-cf",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "internacional",
+    "name": "Internacional",
+    "logo": "club-logos/internacional",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "iran-national-team",
+    "name": "Iran National Team",
+    "logo": "club-logos/iran-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "japan-national-team",
+    "name": "Japan National Team",
+    "logo": "club-logos/japan-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "jordan-national-team",
+    "name": "Jordan National Team",
+    "logo": "club-logos/jordan-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "juventude",
+    "name": "Juventude",
+    "logo": "club-logos/juventude",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "juventus",
+    "name": "Juventus",
+    "logo": "club-logos/juventus",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "kairat",
+    "name": "Kairat",
+    "logo": "club-logos/kairat",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "koln",
+    "name": "Koln",
+    "logo": "club-logos/koln",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "la-galaxy",
+    "name": "La Galaxy",
+    "logo": "club-logos/la-galaxy",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "lanus",
+    "name": "Lanus",
+    "logo": "club-logos/lanus",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "lazio",
+    "name": "Lazio",
+    "logo": "club-logos/lazio",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "le-havre-ac",
+    "name": "Le Havre Ac",
+    "logo": "club-logos/le-havre-ac",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "lecce",
+    "name": "Lecce",
+    "logo": "club-logos/lecce",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "leeds-united",
+    "name": "Leeds United",
+    "logo": "club-logos/leeds-united",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "lille",
+    "name": "Lille",
+    "logo": "club-logos/lille",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "liverpool",
+    "name": "Liverpool",
+    "logo": "club-logos/liverpool",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "lorient",
+    "name": "Lorient",
+    "logo": "club-logos/lorient",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "los-angeles-fc",
+    "name": "Los Angeles Fc",
+    "logo": "club-logos/los-angeles-fc",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "ludogorets",
+    "name": "Ludogorets",
+    "logo": "club-logos/ludogorets",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "lyon",
+    "name": "Lyon",
+    "logo": "club-logos/lyon",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "m-tel-aviv",
+    "name": "M Tel Aviv",
+    "logo": "club-logos/m-tel-aviv",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "mainz-05",
+    "name": "Mainz 05",
+    "logo": "club-logos/mainz-05",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "malmo",
+    "name": "Malmo",
+    "logo": "club-logos/malmo",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "manchester-city",
+    "name": "Manchester City",
+    "logo": "club-logos/manchester-city",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "manchester-united",
+    "name": "Manchester United",
+    "logo": "club-logos/manchester-united",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "marseille",
+    "name": "Marseille",
+    "logo": "club-logos/marseille",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "mexico-national-team",
+    "name": "Mexico National Team",
+    "logo": "club-logos/mexico-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "midtjylland",
+    "name": "Midtjylland",
+    "logo": "club-logos/midtjylland",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "milan",
+    "name": "Milan",
+    "logo": "club-logos/milan",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "minnesota-united-fc",
+    "name": "Minnesota United Fc",
+    "logo": "club-logos/minnesota-united-fc",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "mirassol",
+    "name": "Mirassol",
+    "logo": "club-logos/mirassol",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "morocco-national-team",
+    "name": "Morocco National Team",
+    "logo": "club-logos/morocco-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "nantes",
+    "name": "Nantes",
+    "logo": "club-logos/nantes",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "napoli",
+    "name": "Napoli",
+    "logo": "club-logos/napoli",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "nashville-sc",
+    "name": "Nashville Sc",
+    "logo": "club-logos/nashville-sc",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "neom",
+    "name": "Neom",
+    "logo": "club-logos/neom",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "new-england-revolution",
+    "name": "New England Revolution",
+    "logo": "club-logos/new-england-revolution",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "new-york-city-fc",
+    "name": "New York City Fc",
+    "logo": "club-logos/new-york-city-fc",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "new-york-red-bulls",
+    "name": "New York Red Bulls",
+    "logo": "club-logos/new-york-red-bulls",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "new-zealand-national-team",
+    "name": "New Zealand National Team",
+    "logo": "club-logos/new-zealand-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "newcastle",
+    "name": "Newcastle",
+    "logo": "club-logos/newcastle",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "newells-old-boys",
+    "name": "Newells Old Boys",
+    "logo": "club-logos/newells-old-boys",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "nice",
+    "name": "Nice",
+    "logo": "club-logos/nice",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "norway-national-team",
+    "name": "Norway National Team",
+    "logo": "club-logos/norway-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "nottingham-forest",
+    "name": "Nottingham Forest",
+    "logo": "club-logos/nottingham-forest",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "novorizontino",
+    "name": "Novorizontino",
+    "logo": "club-logos/novorizontino",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "olympiacos",
+    "name": "Olympiacos",
+    "logo": "club-logos/olympiacos",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "operario-ferroviario",
+    "name": "Operario Ferroviario",
+    "logo": "club-logos/operario-ferroviario",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "orlando-city",
+    "name": "Orlando City",
+    "logo": "club-logos/orlando-city",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "pafos",
+    "name": "Pafos",
+    "logo": "club-logos/pafos",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "palmeiras",
+    "name": "Palmeiras",
+    "logo": "club-logos/palmeiras",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "panama-national-team",
+    "name": "Panama National Team",
+    "logo": "club-logos/panama-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "panathinaikos",
+    "name": "Panathinaikos",
+    "logo": "club-logos/panathinaikos",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "paok",
+    "name": "Paok",
+    "logo": "club-logos/paok",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "paraguay-national-team",
+    "name": "Paraguay National Team",
+    "logo": "club-logos/paraguay-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "paris-fc",
+    "name": "Paris Fc",
+    "logo": "club-logos/paris-fc",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "paris-saint-germain",
+    "name": "Paris Saint Germain",
+    "logo": "club-logos/paris-saint-germain",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "parma",
+    "name": "Parma",
+    "logo": "club-logos/parma",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "paysandu",
+    "name": "Paysandu",
+    "logo": "club-logos/paysandu",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "philadelphia-union",
+    "name": "Philadelphia Union",
+    "logo": "club-logos/philadelphia-union",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "pisa",
+    "name": "Pisa",
+    "logo": "club-logos/pisa",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "portland-timbers",
+    "name": "Portland Timbers",
+    "logo": "club-logos/portland-timbers",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "portuguese-football-federation",
+    "name": "Portuguese Football Federation",
+    "logo": "club-logos/portuguese-football-federation",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "psv",
+    "name": "Psv",
+    "logo": "club-logos/psv",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "qarabag",
+    "name": "Qarabag",
+    "logo": "club-logos/qarabag",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "qatar-national-team",
+    "name": "Qatar National Team",
+    "logo": "club-logos/qatar-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "racing-club",
+    "name": "Racing Club",
+    "logo": "club-logos/racing-club",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "rangers",
+    "name": "Rangers",
+    "logo": "club-logos/rangers",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "rb-bragantino",
+    "name": "Rb Bragantino",
+    "logo": "club-logos/rb-bragantino",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "rb-leipzig",
+    "name": "Rb Leipzig",
+    "logo": "club-logos/rb-leipzig",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "rc-lens",
+    "name": "Rc Lens",
+    "logo": "club-logos/rc-lens",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "rc-strasbourg-alsace",
+    "name": "Rc Strasbourg Alsace",
+    "logo": "club-logos/rc-strasbourg-alsace",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "real-betis",
+    "name": "Real Betis",
+    "logo": "club-logos/real-betis",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "real-madrid",
+    "name": "Real Madrid",
+    "logo": "club-logos/real-madrid",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "real-salt-lake",
+    "name": "Real Salt Lake",
+    "logo": "club-logos/real-salt-lake",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "rennes",
+    "name": "Rennes",
+    "logo": "club-logos/rennes",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "river-plate",
+    "name": "River Plate",
+    "logo": "club-logos/river-plate",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "roma",
+    "name": "Roma",
+    "logo": "club-logos/roma",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "rosario-central",
+    "name": "Rosario Central",
+    "logo": "club-logos/rosario-central",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "salzburg",
+    "name": "Salzburg",
+    "logo": "club-logos/salzburg",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "san-diego-fc",
+    "name": "San Diego Fc",
+    "logo": "club-logos/san-diego-fc",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "san-jose-earthquakes",
+    "name": "San Jose Earthquakes",
+    "logo": "club-logos/san-jose-earthquakes",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "san-lorenzo-de-almagro",
+    "name": "San Lorenzo De Almagro",
+    "logo": "club-logos/san-lorenzo-de-almagro",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "san-martin-san-juan",
+    "name": "San Martin San Juan",
+    "logo": "club-logos/san-martin-san-juan",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "santos",
+    "name": "Santos",
+    "logo": "club-logos/santos",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "sao-paulo",
+    "name": "Sao Paulo",
+    "logo": "club-logos/sao-paulo",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "sarmiento",
+    "name": "Sarmiento",
+    "logo": "club-logos/sarmiento",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "sassuolo",
+    "name": "Sassuolo",
+    "logo": "club-logos/sassuolo",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "saudi-arabia-national-team",
+    "name": "Saudi Arabia National Team",
+    "logo": "club-logos/saudi-arabia-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "sc-braga",
+    "name": "Sc Braga",
+    "logo": "club-logos/sc-braga",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "scotland-national-team",
+    "name": "Scotland National Team",
+    "logo": "club-logos/scotland-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "seattle-sounders-fc",
+    "name": "Seattle Sounders Fc",
+    "logo": "club-logos/seattle-sounders-fc",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "senegal-national-team",
+    "name": "Senegal National Team",
+    "logo": "club-logos/senegal-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "slavia-praha",
+    "name": "Slavia Praha",
+    "logo": "club-logos/slavia-praha",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "south-africa-national-team",
+    "name": "South Africa National Team",
+    "logo": "club-logos/south-africa-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "south-korea-national-team",
+    "name": "South Korea National Team",
+    "logo": "club-logos/south-korea-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "spain-national-team",
+    "name": "Spain National Team",
+    "logo": "club-logos/spain-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "sport-recife",
+    "name": "Sport Recife",
+    "logo": "club-logos/sport-recife",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "sporting-cp",
+    "name": "Sporting Cp",
+    "logo": "club-logos/sporting-cp",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "sporting-kansas-city",
+    "name": "Sporting Kansas City",
+    "logo": "club-logos/sporting-kansas-city",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "st-louis-city-sc",
+    "name": "St Louis City Sc",
+    "logo": "club-logos/st-louis-city-sc",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "st-pauli",
+    "name": "St Pauli",
+    "logo": "club-logos/st-pauli",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "sturm-graz",
+    "name": "Sturm Graz",
+    "logo": "club-logos/sturm-graz",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "sunderland",
+    "name": "Sunderland",
+    "logo": "club-logos/sunderland",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "switzerland-national-team",
+    "name": "Switzerland National Team",
+    "logo": "club-logos/switzerland-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "talleres",
+    "name": "Talleres",
+    "logo": "club-logos/talleres",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "tigre",
+    "name": "Tigre",
+    "logo": "club-logos/tigre",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "torino",
+    "name": "Torino",
+    "logo": "club-logos/torino",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "toronto-fc",
+    "name": "Toronto Fc",
+    "logo": "club-logos/toronto-fc",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "tottenham",
+    "name": "Tottenham",
+    "logo": "club-logos/tottenham",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "toulouse",
+    "name": "Toulouse",
+    "logo": "club-logos/toulouse",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "tunisia-national-team",
+    "name": "Tunisia National Team",
+    "logo": "club-logos/tunisia-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "udinese",
+    "name": "Udinese",
+    "logo": "club-logos/udinese",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "union",
+    "name": "Union",
+    "logo": "club-logos/union",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "union-berlin",
+    "name": "Union Berlin",
+    "logo": "club-logos/union-berlin",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "union-saint-gilloise",
+    "name": "Union Saint Gilloise",
+    "logo": "club-logos/union-saint-gilloise",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "uruguay-national-team",
+    "name": "Uruguay National Team",
+    "logo": "club-logos/uruguay-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "usa-national-team",
+    "name": "Usa National Team",
+    "logo": "club-logos/usa-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "uzbekistan-national-team",
+    "name": "Uzbekistan National Team",
+    "logo": "club-logos/uzbekistan-national-team",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "vancouver-whitecaps-fc",
+    "name": "Vancouver Whitecaps Fc",
+    "logo": "club-logos/vancouver-whitecaps-fc",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "vasco-da-gama",
+    "name": "Vasco Da Gama",
+    "logo": "club-logos/vasco-da-gama",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "velez-sarsfield",
+    "name": "Velez Sarsfield",
+    "logo": "club-logos/velez-sarsfield",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "verona",
+    "name": "Verona",
+    "logo": "club-logos/verona",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "vfb-stuttgart",
+    "name": "Vfb Stuttgart",
+    "logo": "club-logos/vfb-stuttgart",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "viktoria-plzen",
+    "name": "Viktoria Plzen",
+    "logo": "club-logos/viktoria-plzen",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "vila-nova",
+    "name": "Vila Nova",
+    "logo": "club-logos/vila-nova",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "villarreal",
+    "name": "Villarreal",
+    "logo": "club-logos/villarreal",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "vitoria",
+    "name": "Vitoria",
+    "logo": "club-logos/vitoria",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "volta-redonda",
+    "name": "Volta Redonda",
+    "logo": "club-logos/volta-redonda",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "werder-bremen",
+    "name": "Werder Bremen",
+    "logo": "club-logos/werder-bremen",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "west-ham",
+    "name": "West Ham",
+    "logo": "club-logos/west-ham",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "wolfsburg",
+    "name": "Wolfsburg",
+    "logo": "club-logos/wolfsburg",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "wolves",
+    "name": "Wolves",
+    "logo": "club-logos/wolves",
+    "source": "local",
+    "popularity": 2
+  },
+  {
+    "id": "young-boys",
+    "name": "Young Boys",
+    "logo": "club-logos/young-boys",
+    "source": "local",
+    "popularity": 2
+  }
+]

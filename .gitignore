@@ -1,0 +1,24 @@
+# Firebase — keep real config local; use *.example templates after clone
+Soccer Trivia Game/GoogleService-Info.plist
+.firebaserc
+
+# Xcode
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# macOS
+.DS_Store
+
+# CocoaPods (if used)
+Pods/

@@ -1,0 +1,127 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function signedIn() {
+      return request.auth != null;
+    }
+
+    function me(uid) {
+      return signedIn() && request.auth.uid == uid;
+    }
+
+    match /users/{uid} {
+      allow read: if signedIn();
+      allow create, update, delete: if me(uid);
+    }
+
+    match /usernames/{username} {
+      allow read: if signedIn();
+      allow create, update: if signedIn() && request.resource.data.uid == request.auth.uid;
+      allow delete: if signedIn();
+    }
+
+    match /rooms/{roomCode} {
+      allow read: if signedIn();
+      allow create: if signedIn()
+        && request.resource.data.hostId == request.auth.uid
+        && request.resource.data.state == "lobby";
+
+      // During active gameplay, room authority must come from backend functions/admin only.
+      // Clients can still perform lobby setup and results rematch readiness updates.
+      allow update: if signedIn() && (
+        (
+          resource.data.state == "lobby" &&
+          (
+            // lobby edits
+            request.resource.data.state == "lobby" ||
+            // host can start game transition (server authority will handle round progression after)
+            (request.resource.data.state == "inGame" && resource.data.hostId == request.auth.uid)
+          )
+        ) ||
+        (
+          // Spark fallback progression + answer writes: any room member can update answers during inGame/results,
+          // but hostId and logical state must be preserved.
+          resource.data.state == "inGame" &&
+          request.resource.data.hostId == resource.data.hostId &&
+          request.resource.data.state in ["inGame", "results"] &&
+          request.auth.uid in resource.data.playerIds
+        ) ||
+        (
+          resource.data.state == "results" &&
+          (
+            request.resource.data.state == "results" ||
+            (request.resource.data.state == "lobby" &&
+             request.auth.uid == resource.data.hostId &&
+             request.resource.data.hostId == resource.data.hostId)
+          )
+        )
+      );
+
+      allow delete: if signedIn() && resource.data.hostId == request.auth.uid;
+    }
+
+    // Private authoritative state (answer keys/timing metadata).
+    match /room_authority/{roomCode} {
+      allow read, write: if false;
+    }
+
+    match /friend_requests/{requestId} {
+      allow read: if signedIn() && (
+        resource.data.fromUid == request.auth.uid ||
+        resource.data.toUid == request.auth.uid
+      );
+
+      allow create: if signedIn()
+        && request.resource.data.fromUid == request.auth.uid
+        && request.resource.data.toUid != request.auth.uid
+        && request.resource.data.status == "pending";
+
+      allow update: if signedIn() && (
+        // Recipient can accept/decline a pending request.
+        (
+          resource.data.toUid == request.auth.uid &&
+          resource.data.status == "pending" &&
+          request.resource.data.status in ["accepted", "declined"] &&
+          request.resource.data.fromUid == resource.data.fromUid &&
+          request.resource.data.toUid == resource.data.toUid
+        ) ||
+        // Sender can cancel a pending request.
+        (
+          resource.data.fromUid == request.auth.uid &&
+          resource.data.status == "pending" &&
+          request.resource.data.status == "cancelled"
+        )
+      );
+    }
+
+    match /game_invites/{inviteId} {
+      allow read: if signedIn() && (
+        resource.data.fromUid == request.auth.uid ||
+        resource.data.toUid == request.auth.uid
+      );
+
+      allow create: if signedIn()
+        && request.resource.data.fromUid == request.auth.uid
+        && request.resource.data.toUid != request.auth.uid
+        && request.resource.data.status == "pending"
+        && request.resource.data.expiresAt > request.time;
+
+      allow update: if signedIn() && (
+        // Recipient can accept/decline/expire own pending invite.
+        (
+          resource.data.toUid == request.auth.uid &&
+          resource.data.status == "pending" &&
+          request.resource.data.status in ["accepted", "declined", "expired"] &&
+          request.time <= resource.data.expiresAt
+        ) ||
+        // Host can cancel pending invite.
+        (
+          resource.data.fromUid == request.auth.uid &&
+          resource.data.status == "pending" &&
+          request.resource.data.status == "cancelled"
+        )
+      );
+    }
+  }
+}
+
